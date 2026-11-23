@@ -12,20 +12,20 @@ from telegram.ext import (
 )
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHANNEL_ID = "-1001234567890"  # Primary/Default Channel ID (Admin ID & extra channels configured inside)
+BOT_TOKEN = "9101212703:AAEf5eNgC8Beq1lAu0XE67yjK9JIF1fu2ys"
+CHANNEL_ID = "-100432772785"  # Primary/Default Channel ID (Admin ID & extra channels configured inside)
 # =================================================
 
 # --- Quick Setup Inside Code (No Database Needed) ---
-ADMIN_ID = 123456789  # Replace with your numeric Telegram User ID (get it from @userinfobot)
-AROLINKS_API_KEY = "YOUR_AROLINKS_API_KEY"  # Get from arolinks.com -> Tools -> Developer API
+ADMIN_ID = 8650547849  # Replace with your numeric Telegram User ID (get it from @userinfobot)
+AROLINKS_API_KEY = "bec956991194220b1d71c1b97d7bc60732ac3cde"  # Get from arolinks.com -> Tools -> Developer API
 PREMIUM_LINK = "https://t.me/+xpELQlAlL01mMTU1"
 
 # Your Backup Channels (Button Label : Invite Link)
 BACKUP_CHANNELS = {
-    "Backup 1": "https://t.me/+YourBackupLink1",
-    "Backup 2": "https://t.me/+YourBackupLink2",
-    "Backup 3": "https://t.me/+YourBackupLink3",
+    "Backup 1": "https://t.me/+_cwmB75dL6M3YTFl",
+    "Backup 2": "https://t.me/+oX93878ieKw0MGZl",
+    "Backup 3": "https://t.me/+dX1O51Eel1VjZGU1",
 }
 
 # Your Target Posting Channels (Button Label : Channel Chat ID)
