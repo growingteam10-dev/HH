@@ -30,9 +30,9 @@ BACKUP_CHANNELS = {
 
 # Your Target Posting Channels (Button Label : Channel Chat ID)
 TARGET_CHANNELS = {
-    "Main Channel": CHANNEL_ID,
-    "Second Channel": "-1009876543210",
-    "Third Channel": "-1001122334455",
+    "Main Channel": -1003915517089,
+    "Second Channel": "-1003987214226",
+    "Third Channel": "-1004443700737",
 }
 
 # Logging with Date & Time
